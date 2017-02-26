@@ -1,1 +1,2 @@
-# HTML_CSS_Javascript_Coursera
+# HTML, CSS, and Javascript for Web Developers
+# First Assignment
